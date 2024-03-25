@@ -12,9 +12,15 @@ int main() {
     cout << "Enter the second number: ";
     cin >> num2;
 
+<<<<<<< HEAD
     int sum = num1 + num2;
 
     cout << "The sum of " << num1 << " and " << num2 << " is: " << sum << endl;
+=======
+    int sum = num1 * num2;
+
+    cout << "The product of " << num1 << " and " << num2 << " is: " << sum << endl;
+>>>>>>> git
     
 
     return 0;
